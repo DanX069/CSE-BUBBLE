@@ -1,3 +1,3 @@
 # CSE-BUBBLE
 
-This is a CS220: Computer Organization assignment at dept. of Computer Science and Engineering in IIT Kanpur
+This is an assignment for the course CS220: Computer Organization at dept. of Computer Science and Engineering in IIT Kanpur
